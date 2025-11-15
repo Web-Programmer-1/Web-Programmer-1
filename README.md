@@ -1,25 +1,93 @@
-# 💫 About Me:
-About Me<br>Full-Stack Web Developer & Open-Source Enthusiast<br><br>I'm a passionate Full-Stack Developer with 2+ years of experience crafting responsive, high-performance web and mobile applications. I specialize in modern JavaScript ecosystems and love turning complex problems into elegant, scalable solutions.<br><br>🔧 Technical Expertise<br>Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS<br>Backend: Node.js, Express.js, RESTful APIs, JWT Authentication<br>Mobile: React Native, Cross-platform Development<br>Databases: MongoDB, PostgreSQL, MySQL, Prisma, Mongoose<br>Cloud & DevOps: AWS, Firebase, Docker, Git, GitHub<br><br>Payment Integration: Stripe, bKash, SSLCommerz<br><br> Professional Focus<br><br>🌐 Building scalable web applications with modern tech stacks<br>📱 Developing user-friendly mobile applications with real-time features<br>🚀 Implementing cloud solutions and CI/CD pipelines<br>🔒 Creating secure authentication systems and payment gateways<br>💡 Writing clean, maintainable code following best practices<br>📈 What I Bring to the Table<br><br>2+ years of freelance experience delivering production-ready applications<br><br>Strong problem-solving skills and attention to performance optimization<br><br>Experience with Agile methodologies and version control (Git)<br><br>Ability to work independently and collaborate effectively in teams<br><br>Passion for continuous learning and adopting new technologies<br><br>🌱 Currently Growing In<br>Advanced cloud architecture and microservices<br><br>DevOps practices and containerization<br><br>Open-source contributions<br><br>Technical writing and community mentorship<br><br>💼 Looking For<br>Exciting full-stack development opportunities<br><br>Collaborative projects with innovative teams<br><br>Challenging problems that push my technical boundaries<br><br>Opportunities to contribute to meaningful open-source projects<br><br>📫 Let's Connect & Collaborate<br>📧 Email: mdhakimshorkar123@gmail.com<br><br>📍 Location: Bogura, Bangladesh<br><br>💼 LinkedIn: https://www.linkedin.com<br><br>🌐 Portfolio: https://asignment-7-client.vercel.app<br><br>Open to freelance projects, full-time opportunities, and technical collaborations!
+# 👋 Hi, I'm Hakim CST
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;2%2B+Years+of+Experience;Building+Scalable+Solutions;Clean+Code+Enthusiast)
+  
+</div>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Hakim Dev) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hakim Dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/accounts/signup) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hakim Dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Hakim Dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Hakim Dev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Software Engineer) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Hakim Dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://meta.stackoverflow.com/questions/420552/where-do-i-find-the-link-to-my-stack-overflow-profile) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Hakim Dev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hakim Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/shorts/-GOyQJXfxWg?si=1Iy2ak4HlDr1BtEc) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://youtube.com/shorts/-GOyQJXfxWg?si=1Iy2ak4HlDr1BtEc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhakimshorkar123@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Web-Programmer-1&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Web-Programmer-1&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Programmer-1&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm a **Full-Stack Web Developer** from Bogura, Bangladesh, with over **2+ years of professional experience** in crafting responsive, high-performance web and mobile applications. My passion lies in delivering scalable solutions that combine clean architecture, optimal performance, and exceptional user experience.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Web-Programmer-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I specialize in modern JavaScript ecosystems, backend development, cloud deployment, and seamless API integration. Whether it's building RESTful APIs, creating cross-platform mobile apps, or architecting complex web applications, I bring dedication and technical excellence to every project.
+
+### 💡 What I Do
+
+- 🎨 Build responsive, pixel-perfect web applications with **React.js**, **Next.js**, and **Tailwind CSS**
+- ⚡ Develop robust RESTful APIs using **Node.js**, **Express**, and modern ORMs like **Prisma** and **Mongoose**
+- 📱 Create cross-platform mobile experiences with **React Native**
+- ☁️ Deploy and manage applications on **AWS** using **Docker** containers
+- 🔐 Implement secure authentication systems with **JWT** and **Firebase**
+- 💳 Integrate payment gateways like **Stripe**, **bKash**, and **SSLCommerz**
+- 📊 Work with databases including **PostgreSQL**, **MongoDB**, and **MySQL**
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🌟 Highlights
+
+- 💼 **2+ years** of professional development experience
+- 🚀 Specialized in **full-stack JavaScript** development
+- 📱 Experience with **cross-platform mobile development**
+- ☁️ Proficient in **cloud deployment** and containerization
+- 💳 Implemented **payment gateway integrations** in production
+- 🎓 Bachelor's Degree in Engineering
+- 📝 Active contributor to developer community with tutorials and technical content
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:01526548073@hakimmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Web-Programmer-1&icon=0&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/HakimDev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/HakimDev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Patreon) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ko-fi) 
-
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  **💬 "Passionate about delivering scalable solutions with clean code, performance, and user experience."**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
