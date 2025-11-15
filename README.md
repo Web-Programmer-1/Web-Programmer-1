@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💫 About Me:
+About Me<br>Full-Stack Web Developer & Open-Source Enthusiast<br><br>I'm a passionate Full-Stack Developer with 2+ years of experience crafting responsive, high-performance web and mobile applications. I specialize in modern JavaScript ecosystems and love turning complex problems into elegant, scalable solutions.<br><br>🔧 Technical Expertise<br>Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS<br>Backend: Node.js, Express.js, RESTful APIs, JWT Authentication<br>Mobile: React Native, Cross-platform Development<br>Databases: MongoDB, PostgreSQL, MySQL, Prisma, Mongoose<br>Cloud & DevOps: AWS, Firebase, Docker, Git, GitHub<br><br>Payment Integration: Stripe, bKash, SSLCommerz<br><br> Professional Focus<br><br>🌐 Building scalable web applications with modern tech stacks<br>📱 Developing user-friendly mobile applications with real-time features<br>🚀 Implementing cloud solutions and CI/CD pipelines<br>🔒 Creating secure authentication systems and payment gateways<br>💡 Writing clean, maintainable code following best practices<br>📈 What I Bring to the Table<br><br>2+ years of freelance experience delivering production-ready applications<br><br>Strong problem-solving skills and attention to performance optimization<br><br>Experience with Agile methodologies and version control (Git)<br><br>Ability to work independently and collaborate effectively in teams<br><br>Passion for continuous learning and adopting new technologies<br><br>🌱 Currently Growing In<br>Advanced cloud architecture and microservices<br><br>DevOps practices and containerization<br><br>Open-source contributions<br><br>Technical writing and community mentorship<br><br>💼 Looking For<br>Exciting full-stack development opportunities<br><br>Collaborative projects with innovative teams<br><br>Challenging problems that push my technical boundaries<br><br>Opportunities to contribute to meaningful open-source projects<br><br>📫 Let's Connect & Collaborate<br>📧 Email: mdhakimshorkar123@gmail.com<br><br>📍 Location: Bogura, Bangladesh<br><br>💼 LinkedIn: https://www.linkedin.com<br><br>🌐 Portfolio: https://asignment-7-client.vercel.app<br><br>Open to freelance projects, full-time opportunities, and technical collaborations!
 
-<!--
-**Web-Programmer-1/Web-Programmer-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Hakim Dev) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hakim Dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/accounts/signup) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hakim Dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Hakim Dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Hakim Dev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Software Engineer) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Hakim Dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://meta.stackoverflow.com/questions/420552/where-do-i-find-the-link-to-my-stack-overflow-profile) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Hakim Dev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hakim Dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/shorts/-GOyQJXfxWg?si=1Iy2ak4HlDr1BtEc) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://youtube.com/shorts/-GOyQJXfxWg?si=1Iy2ak4HlDr1BtEc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhakimshorkar123@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Web-Programmer-1&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Web-Programmer-1&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Programmer-1&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Web-Programmer-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Web-Programmer-1&icon=0&color=9)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/HakimDev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/HakimDev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Patreon) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Ko-fi) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
