@@ -1,213 +1,362 @@
-# 👋 Hi, I'm Hakim CST
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;2%2B+Years+of+Experience;Building+Scalable+Solutions;Clean+Code+Enthusiast)
-  
-</div>
-
-## 🚀 About Me
-
-I'm a **Full-Stack Web Developer** from Bogura, Bangladesh, with over **2+ years of professional experience** in crafting responsive, high-performance web and mobile applications. My passion lies in delivering scalable solutions that combine clean architecture, optimal performance, and exceptional user experience.
-
-I specialize in modern JavaScript/TypeScript ecosystems, backend development, cloud deployment, and seamless API integration. Whether it's building RESTful APIs, creating cross-platform mobile apps, or architecting complex web applications, I bring dedication and technical excellence to every project.
-
-### 💡 What I Do
-
-- 🎨 Build responsive, pixel-perfect web applications with **React.js**, **Next.js**, and modern CSS frameworks
-- ⚡ Develop robust RESTful and GraphQL APIs using **Node.js**, **NestJS**, and **GoLang**
-- 📱 Create cross-platform mobile experiences with **React Native**
-- ☁️ Deploy and manage applications on **AWS** and **Google Cloud** using **Docker** containers
-- 🔐 Implement secure authentication systems with **JWT**, **NextAuth**, and **Firebase**
-- 💳 Integrate payment gateways like **Stripe**, **bKash**, and **SSLCommerz**
-- 📊 Work with databases including **PostgreSQL**, **MongoDB**, **Supabase**, and **Neon DB**
-- 🎬 Create stunning animations with **GSAP** and **Framer Motion**
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![GoLang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+# 👨‍💻 Hakim CST
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Hakim+CST+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;2%2B+Years+of+Experience+%F0%9F%92%BC;Building+Scalable+Solutions+%E2%9A%A1;Clean+Code+Enthusiast+%F0%9F%92%AF;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GoLang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/-Neon_DB-00E699?style=for-the-badge&logo=neon&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asignment-7-client.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhakimshorkar123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔐 Authentication & APIs
-![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/-Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-##  GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?
-    username=Web-Programmer-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
-    username=Web-Programmer-1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Programmer-1&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-Programmer-1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-Programmer-1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Batch-5-A2-Ride-Share-Booking
-
-[![Project Banner](https://i.postimg.cc/ZYghFK9k/Screenshot-(1158).png)](https://github.com/Web-Programmer-1/Batch-5-A2-Ride-Share-Booking)
-
-**A modern ride-sharing platform with real-time booking**
-
-🔧 **Tech Stack:**
-- TypeScript, React, Node.js
-- MongoDB, Express
-- Real-time WebSocket
-
-🌟 **Features:**
-- Real-time ride tracking
-- Secure payment integration
-- User authentication & authorization
-
-[![View Project](https://img.shields.io/badge/View_Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1/Ride_Booking_A5.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://batch-5-a2-ride-share-booking.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🎓 Student Scholarship Platform
-
-[![Project Banner](https://i.postimg.cc/tCwWjPYV/Screenshot-(1160).png)](https://github.com/Web-Programmer-1/Student-schoolorship)
-
-**Complete scholarship management system for students**
-
-🔧 **Tech Stack:**
-- JavaScript, Next JS, Redux
-- Node.js, Express
-- PostgreSQL, Prisma
-
-🌟 **Features:**
-- Student application management
-- Admin dashboard
-- Document verification system
-
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1/UNIGRATS.git)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://asignment-12-975a1.web.app)
-
-</td>
-</tr>
-</table>
-
----
-
-
-
-
-
-
-
-
-## 💼 Professional Highlights
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
 ```typescript
 const hakim = {
-    location: "Bogura, Bangladesh",
-    role: "Full-Stack Web Developer",
+    pronouns: "He" | "Him",
+    location: "🇧🇩 Bogura, Bangladesh",
+    currentRole: "Full-Stack Web Developer",
     experience: "2+ Years",
     code: ["JavaScript", "TypeScript", "Java", "GoLang"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Cloud", "API Design"],
     technologies: {
-        frontend: ["React", "Next.js", "React Native", "TanStack Query", "Redux Toolkit"],
-        backend: ["Node.js", "NestJS", "Express", "GoLang", "GraphQL"],
+        frontend: {
+            js: ["React", "Next.js", "React Native"],
+            stateManagement: ["Redux Toolkit", "TanStack Query"],
+            css: ["Tailwind CSS", "Bootstrap", "Shadcn/ui"],
+            animations: ["GSAP", "Framer Motion"]
+        },
+        backend: {
+            js: ["Node.js", "NestJS", "Express"],
+            go: ["GoLang"],
+            api: ["REST", "GraphQL"],
+            orm: ["Prisma", "Mongoose"]
+        },
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Neon DB"],
         cloud: ["AWS", "Google Cloud", "Firebase", "Docker"],
-        animations: ["GSAP", "Framer Motion"],
-        auth: ["JWT", "NextAuth", "Firebase Auth"]
+        auth: ["JWT", "NextAuth", "Firebase Auth"],
+        payments: ["Stripe", "bKash", "SSLCommerz"]
     },
+    architecture: ["Microservices", "Event-Driven", "Serverless"],
     currentFocus: "Building scalable full-stack applications with modern tech stack",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+##  What I Do
 
-## 📫 Connect With Me
+<table>
+<tr>
+<td width="50%">
+
+### ✨ Frontend Development
+-  Pixel-perfect, responsive web applications
+-  Modern React.js & Next.js ecosystems
+-  Cross-platform mobile apps (React Native)
+-  Smooth animations with GSAP & Framer Motion
+-  Beautiful UI with Tailwind & Shadcn/ui
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Development
+-  Scalable RESTful & GraphQL APIs
+-  Microservices architecture
+-  Secure authentication systems
+-  Payment gateway integrations
+-  Database design & optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+-  Docker containerization
+-  AWS & Google Cloud deployment
+-  Firebase real-time features
+-  CI/CD pipelines
+-  Performance monitoring
+
+</td>
+<td width="50%">
+
+### 🌟 Additional Skills
+-  Technical writing & documentation
+-  Team collaboration & code reviews
+-  Mentoring junior developers
+-  SEO optimization
+-  Analytics & monitoring
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,go&perline=4" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=4" />
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&perline=4" />
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<div align="center">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=4" />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-00E699?style=flat-square&logo=neon&logoColor=white)
+
+</div>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase&perline=4" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</div>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Web-Programmer-1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Programmer-1&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Programmer-1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Web-Programmer-1&custom_title=Contribution%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Web-Programmer-1&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🌟 Featured Projects
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhakimshorkar123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asignment-7-client.vercel.app)
+<table>
+<tr>
+<td width="50%" valign="top">
 
+<h3 align="center">🚗 Ride Share Booking System</h3>
+
+<div align="center">
+  <a href="https://batch-5-a2-ride-share-booking.vercel.app" target="_blank">
+    <img src="https://i.postimg.cc/ZYghFK9k/Screenshot-(1158).png" width="100%" alt="Ride Share Booking"/>
+  </a>
+</div>
+
+<br>
+
+**Modern ride-sharing platform with real-time features**
+
+<br>
+
+**Tech Stack:**
+`TypeScript` `React` `Node.js` `MongoDB` `Express` `WebSocket`
+
+<br>
+
+**Key Features:**
+- ⚡ Real-time ride tracking
+- 💳 Secure payment integration  
+- 🔐 JWT authentication
+- 📱 Responsive design
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Web-Programmer-1/Ride_Booking_A5.git" target="_blank">
+    <img src="https://img.shields.io/badge/Code-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <a href="https://batch-5-a2-ride-share-booking.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Student Scholarship Platform</h3>
+
+<div align="center">
+  <a href="https://asignment-12-975a1.web.app" target="_blank">
+    <img src="https://i.postimg.cc/tCwWjPYV/Screenshot-(1160).png" width="100%" alt="Scholarship Platform"/>
+  </a>
+</div>
+
+<br>
+
+**Complete scholarship management system**
+
+<br>
+
+**Tech Stack:**
+`JavaScript` `Next.js` `Redux` `Node.js` `PostgreSQL` `Prisma`
+
+<br>
+
+**Key Features:**
+- 📝 Application management
+- 👨‍💼 Admin dashboard
+- 📄 Document verification
+- 🔍 Advanced filtering
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Web-Programmer-1/UNIGRATS.git" target="_blank">
+    <img src="https://img.shields.io/badge/Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+  </a>
+  <a href="https://asignment-12-975a1.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📈 Contribution Activity
 
 <div align="center">
-  
-### 💬 *Passionate about delivering scalable solutions with clean code, performance, and user experience.*
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-Programmer-1&custom_title=Hakim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area_color=2E9EF7&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Web-Programmer-1&color=2E9EF7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Web-Programmer-1?style=for-the-badge&color=2E9EF7&labelColor=0D1117)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:mdhakimshorkar123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://asignment-7-client.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/Web-Programmer-1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+### 💬 *"Passionate about delivering scalable solutions with clean code, performance, and user experience."*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Web-Programmer-1&label=Profile%20Views&color=2E9EF7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Web-Programmer-1?label=Followers&style=for-the-badge&color=2E9EF7)
+![Stars](https://img.shields.io/github/stars/Web-Programmer-1?label=Total%20Stars&style=for-the-badge&color=2E9EF7)
+
+<br>
 
 ### ⭐ From [Hakim CST](https://github.com/Web-Programmer-1) with 💙
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
