@@ -81,19 +81,21 @@ I specialize in modern JavaScript/TypeScript ecosystems, backend development, cl
 
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?
+    username=Web-Programmer-1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+    username=Web-Programmer-1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Programmer-1&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-Programmer-1&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -102,14 +104,66 @@ I specialize in modern JavaScript/TypeScript ecosystems, backend development, cl
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
+
 ## 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2)
+### 🚗 Batch-5-A2-Ride-Share-Booking
 
-</div>
+[![Project Banner](https://i.postimg.cc/ZYghFK9k/Screenshot-(1158).png)](https://github.com/Web-Programmer-1/Batch-5-A2-Ride-Share-Booking)
+
+**A modern ride-sharing platform with real-time booking**
+
+🔧 **Tech Stack:**
+- TypeScript, React, Node.js
+- MongoDB, Express
+- Real-time WebSocket
+
+🌟 **Features:**
+- Real-time ride tracking
+- Secure payment integration
+- User authentication & authorization
+
+[![View Project](https://img.shields.io/badge/View_Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1/Ride_Booking_A5.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://batch-5-a2-ride-share-booking.vercel.app)
+
+</td>
+<td width="50%">
+
+### 🎓 Student Scholarship Platform
+
+[![Project Banner](https://i.postimg.cc/tCwWjPYV/Screenshot-(1160).png)](https://github.com/Web-Programmer-1/Student-schoolorship)
+
+**Complete scholarship management system for students**
+
+🔧 **Tech Stack:**
+- JavaScript, Next JS, Redux
+- Node.js, Express
+- PostgreSQL, Prisma
+
+🌟 **Features:**
+- Student application management
+- Admin dashboard
+- Document verification system
+
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1/UNIGRATS.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://asignment-12-975a1.web.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
+
+
+
+
 
 ## 💼 Professional Highlights
 
@@ -144,10 +198,10 @@ const hakim = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:01526548073@hakimmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhakimshorkar123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asignment-7-client.vercel.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1)
 
 </div>
 
@@ -157,9 +211,9 @@ const hakim = {
   
 ### 💬 *"Passionate about delivering scalable solutions with clean code, performance, and user experience."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E9EF7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2E9EF7&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Web-Programmer-1&color=2E9EF7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Web-Programmer-1?style=for-the-badge&color=2E9EF7&labelColor=0D1117)
 
-### ⭐ From [Hakim CST](https://github.com/YOUR_GITHUB_USERNAME) with 💙
+### ⭐ From [Hakim CST](https://github.com/Web-Programmer-1) with 💙
 
 </div>
