@@ -45,7 +45,7 @@ const hakim = {
     },
     architecture: ["Microservices", "Event-Driven", "Serverless"],
     currentFocus: "Building scalable full-stack applications with modern tech stack",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    funFact: "I debug with console.log and I'm not ashamed! "
 };
 ```
 
