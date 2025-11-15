@@ -186,22 +186,16 @@ const hakim = {
 };
 ```
 
-## 📈 Contribution Graph
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhakimshorkar123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asignment-7-client.vercel.app)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-Programmer-1)
+
 
 </div>
 
@@ -209,7 +203,7 @@ const hakim = {
 
 <div align="center">
   
-### 💬 *"Passionate about delivering scalable solutions with clean code, performance, and user experience."*
+### 💬 *Passionate about delivering scalable solutions with clean code, performance, and user experience.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Web-Programmer-1&color=2E9EF7&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Web-Programmer-1?style=for-the-badge&color=2E9EF7&labelColor=0D1117)
